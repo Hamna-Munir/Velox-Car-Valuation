@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+model.pkl
+quantile_models.pkl
+metrics.pkl
+car_data_clean.csv
+.pytest_cache/
+.ruff_cache/
+.env
+*.egg-info/
